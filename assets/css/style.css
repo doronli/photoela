@@ -8033,5 +8033,10 @@ select[multiple] option {
 	border-radius: 3px;
 	margin-top: 10px;
 }
-
+@media only screen and (max-width: 576px) {
+	.main_menu_size_16 .navbar-expand-lg .navbar-nav > li > .nav-link {
+		text-align: right;
+		color: black;
+	}
+}
 
