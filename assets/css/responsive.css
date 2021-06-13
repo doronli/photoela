@@ -394,6 +394,9 @@ header .attr-nav + .social_icons {
 .md-height-300 {
     height: 300px !important;
 }
+.md-height-500 {
+    height: 500px !important;
+}
 .slider_tab li {
     font-size: 14px;
 }
